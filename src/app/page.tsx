@@ -19,7 +19,7 @@ const produtos = [
 export default function Home(){
 	return(
 		<main>
-			<h1>Cloud Produtos - pedro</h1>
+			<h1>Cloud Produtos - Pedro</h1>
 			<p>Catalogo de produtos</p>
 			<button>Novo Produto</button>
 			<section>
