@@ -24,6 +24,13 @@
 		// see https://opennext.js.org/cloudflare/howtos/image
 		"binding": "IMAGES"
 	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "cloud-products-db",
+			"database_id": "ec5e33ce-56a0-43b2-a050-beff7529ac25"
+		}
+	],
 	"services": [
 		{
 			// Self-reference service binding, the service name must match the worker name
